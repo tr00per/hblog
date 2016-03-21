@@ -1,13 +1,13 @@
 name:                hblog
 version:             0.1.0.0
-synopsis:            Initial project template from stack
+synopsis:            Simple blog service in Haskell
 description:         Please see README.md
-homepage:            http://github.com/githubuser/hblog#readme
+homepage:            http://github.com/tr00per/hblog#readme
 license:             BSD3
 license-file:        LICENSE
-author:              Author name here
-maintainer:          example@example.com
-copyright:           2016 Author Here
+author:              Artur Czajka
+maintainer:          arturczajka@gmail.com
+copyright:           2016 Artur Czajka
 category:            Web
 build-type:          Simple
 -- extra-source-files:
@@ -42,4 +42,4 @@ test-suite hblog-test
 
 source-repository head
   type:     git
-  location: https://github.com/githubuser/hblog
+  location: https://github.com/tr00per/hblog
